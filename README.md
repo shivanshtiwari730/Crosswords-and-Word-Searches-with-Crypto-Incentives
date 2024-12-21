@@ -7,6 +7,9 @@ The platform uses a smart contract that interacts with a blockchain-based ERC-20
 ## Contract Address
 
 -0xd3ddd392e7b1f01c2a949522ecdaf2f014d1e34c
+![image](https://github.com/user-attachments/assets/e6bc1df0-0f48-400d-b7c0-1b94663b6337)
+
+
 
 
 ## Project Vision
